@@ -1,0 +1,10 @@
+﻿postgres_data/
+minio_data/
+data_lake/.minio.sys/
+.minio.sys/
+logs/
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
